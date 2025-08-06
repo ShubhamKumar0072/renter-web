@@ -7,3 +7,4 @@ STEPS :-
 Terminal Commands :- 
 1. npm install
 2. nodemon app.js
+3. enjoy
